@@ -13,10 +13,13 @@
 <p>O comando "git pull" traz as informações do github para a sua máquina local</p>
 
 <img src= "img/git add ..png">  
-  <p>O git "add ." é responsável por adicionar alterações feitas nos arquivos a uma área temporária</p>
+  <p>O "gitadd ." é responsável por adicionar alterações feitas nos arquivos a uma área temporária</p>
 
 <img src= "img/git commit.png">  
   <p>Ao efetuar um commit, as alterações feitas no projeto são salvas</p>
+
+<img src = "img/git push.png">
+<p>O comando 'gitpush' leva os commits do local para o servidor</p>
 
 
 
