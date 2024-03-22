@@ -1,5 +1,5 @@
 <h1>Comandos principais gitbash:</h1>
-
+<h2>Dupla:Eric e Gabriela</h2>
 <img src= "img/git init.png">
   <p> Utilizamos esse comando para dar inicio a programação no gitbash</p>
 
